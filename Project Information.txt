@@ -1,0 +1,13 @@
+Project Name: Online Examination System.
+
+Front-End: Jsp,Html,Css,JavaScript,Bootstrap.
+
+Back-End: Servlet,JDBC, Mysql Database.
+
+IDE Used: Netbeans 8.1v
+
+Modules:1) Student Module.
+	2) Student Result.
+	3) Student Report.
+	3) Admin Module.
+	
